@@ -1,3 +1,3 @@
 # pystuff
-Randome Stuff I make on Python
+Random Stuff I make on Python
 To be Ignored
